@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @Vendetta99
-- 👀 I’m interested in Ethical Hacking/Cyber Securiry
+- 👋 Hi, I’m @Vendetta99 I'm a young Developer from Germany :)
+- 👀 I know:JS,Python,Pawno,Linux,HTMLL,CSS
 - 🌱 I’m currently learning Networking
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me abjuzer0@gmail.com
+- 👀 I'm Ethical Hacker, Cyber Security and System Administrator
+- 📫 You can contact me by e-mail "abjuzer0@gmail.com" other "! ᐯ乇几ᗪ乇ㄒㄒ卂シ#9999" my discord
 
-<!---
-Vendetta99/Vendetta99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
